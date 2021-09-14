@@ -1,6 +1,6 @@
 ﻿# Analysis on Indian Startups Fundings from 2015 – 2020 
 
-## The purpose of the project is to vizualise different developments of the state of fundng and different startups over the years 2015 – 2020. To achieve the goal and answer some questions through the visualizations, the data needs to be cleaned first. So, the project is divided into two major parts :-
+The purpose of the project is to vizualise different developments of the state of fundng and different startups over the years 2015 – 2020. To achieve the goal and answer some questions through the visualizations, the data needs to be cleaned first. So, the project is divided into two major parts :-
 
 1) Data Cleaning
 2) Visualizations

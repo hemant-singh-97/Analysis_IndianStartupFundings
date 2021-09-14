@@ -1,12 +1,14 @@
 ﻿# Analysis on Indian Startups Fundings from 2015 – 2020 
 
+## Overview :
+
 The purpose of the project is to vizualise different developments of the state of fundng and different startups over the years 2015 – 2020. To achieve the goal and answer some questions through the visualizations, the data needs to be cleaned first. So, the project is divided into two major parts :-
 
-1) Data Cleaning
-2) Visualizations
+**1) Data Cleaning**
+**2) Visualizations**
 
 
-## 1) Data Cleaning :
+### 1) Data Cleaning :
 
 The dataset used can be found in [source](https://www.kaggle.com/sudalairajkumar/indian-startup-funding). Also mentioned in the **Visualizations.ipynb** while reading data, and I have included this file as well by the name **startup_funding.csv**.
 
@@ -24,10 +26,8 @@ So, this CSV file had 10 columns, with the columns I will tell their inclusion o
 
 The reason for the column’s inclusion and exclusion can be found inside **Visualizations.ipynb**
 
-**Libraries Used** : pandas, re, datetime
 
-
-## 2) Visualizations :
+### 2) Visualizations :
 
 These Visualizations answers the following questions :
 1. Trend of the frequency of investment from 2015 – 2020
@@ -41,4 +41,17 @@ These Visualizations answers the following questions :
 9. Trend of the 4 major types of funding over years 2015 - 2020
 10. Trend of funding status of the top 5 most funded startups
 
-**Libraries Used** : numpy, matplotlib
+## Technical Details :
+
+### Python Libraries used :
+
+* pandas
+* re
+* datetime
+* numpy
+* matplotlib
+* Counter (from collections)
+
+### Main Code File :
+
+**Visualizations.ipynb** has all the code for data cleaning and visualizations as discussed in the *Overview* section.

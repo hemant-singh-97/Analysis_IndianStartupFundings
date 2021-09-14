@@ -57,4 +57,15 @@ These Visualizations answers the following questions :
 
 **Visualizations.ipynb** has all the code for data cleaning and visualizations as discussed in the *Overview* section.
 
+
+## 3) Example Plots :
+
+The first two plots are as follows :
+
+### 3.1) Trend of the frequency of investment from 2015 – 2020 :
+
 ![Plot 1](/Plots/fig_1.png)
+
+### 3.2) Top 10 cities with the most number of startups :
+
+![Plot 2](/Plots/fig_2.png)

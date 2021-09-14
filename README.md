@@ -56,3 +56,5 @@ These Visualizations answers the following questions :
 ### 2.2) Main Code File :
 
 **Visualizations.ipynb** has all the code for data cleaning and visualizations as discussed in the *Overview* section.
+
+![Plot 1](/Plots/fig_1.png)

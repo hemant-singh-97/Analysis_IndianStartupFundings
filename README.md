@@ -57,6 +57,10 @@ These Visualizations answers the following questions :
 
 **Visualizations.ipynb** has all the code for data cleaning and visualizations as discussed in the *Overview* section.
 
+### 2.3) Plots :
+
+All the plots can be found in the folder **Plots**
+
 
 ## 3) Example Plots :
 

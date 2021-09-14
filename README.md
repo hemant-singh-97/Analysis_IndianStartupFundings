@@ -8,7 +8,7 @@
 
 ## 1) Data Cleaning :
 	
-	The source of dataset is : https://www.kaggle.com/sudalairajkumar/indian-startup-funding (Also mentioned in the **Visualizations.ipynb** while reading data), and I have included this file as well (**startup_funding.csv**).
+	The [source](https://www.kaggle.com/sudalairajkumar/indian-startup-funding) of dataset is : https://www.kaggle.com/sudalairajkumar/indian-startup-funding (Also mentioned in the Visualizations.ipynb while reading data), and I have included this file as well (startup_funding.csv).
 
 	So, this CSV file had 10 columns, with the columns I will tell their inclusion or exclusion status for the further analysis. These columns are :
 	1) Sr No : Excluded
